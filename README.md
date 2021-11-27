@@ -4,4 +4,4 @@
 
 ### Creating a piano player with DOM events in JavaScript!
 
-(DEMO)[https://segwuonwu.github.io/piano-keys/]
+[DEMO](https://segwuonwu.github.io/piano-keys/)
